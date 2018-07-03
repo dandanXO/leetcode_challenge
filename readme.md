@@ -1,4 +1,4 @@
-# NOTEs
+# NOTEs :pushpin:
 ## Use Language
 - JavaScript
 ## Description
